@@ -10,6 +10,7 @@
 
 `npm i -d parcel`
 
+## To run the project
 `npm start`
 
 - To initialize the node module packge, we do npm init
